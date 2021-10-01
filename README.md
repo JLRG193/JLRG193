@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan
 - 👀 I’m interested in Physics, Maths, Python, R...
 - 🌱 I’m currently learning Python and R, scientific data,
-- 💞️ I’m looking to collaborate on elearning, editor writer, 
+- 💞️ I’m looking to collaborate on elearning projects, editor writer, 
 - 📫 juannlluiss@gmail.com
 
 <!---
